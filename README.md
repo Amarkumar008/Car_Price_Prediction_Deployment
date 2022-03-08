@@ -16,7 +16,7 @@ Some packages are:
 numpy
 pandas
 scikit-learn
-Run the "application.py" file And you are good to go.
+Run the "app.py" file And you are good to go.
 
 # Description
 
